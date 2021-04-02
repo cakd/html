@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://gembelonline.onrender.com/sitemap.xml
